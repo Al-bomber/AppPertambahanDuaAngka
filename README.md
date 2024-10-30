@@ -1,4 +1,4 @@
-### latihan 1 : Aplikasi Pertambahan Dua Angka
+## Latihan 1 : Aplikasi Pertambahan Dua Angka
 
 Nama        : Muhammad Abdul Jabbar
 NPM         : 2210010343
