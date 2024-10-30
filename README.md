@@ -1,9 +1,9 @@
 ## Latihan 1 : Aplikasi Pertambahan Dua Angka
 
-Nama        : Muhammad Abdul Jabbar
-NPM         : 2210010343
-Kelas       : 5B Reguler BJB
-Mata Kuliah : PBO2
+- Nama        : Muhammad Abdul Jabbar
+- NPM         : 2210010343
+- Kelas       : 5B Reguler BJB
+- Mata Kuliah : PBO2
 
 Tugas membuat sebuah aplikasi pertambahan dua bilangan menggunakan java netbeans
 
